@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá!Eu sou o Ygor Silveira de Oliveira👋
 
-<!--
-**ygor-silveira-oliveira/ygor-silveira-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estou aprendendoaprendendo: HTML,CSS,JavaScript
+- 🧭 Pretendo trabalhar: com front-end
+- 👯 Estou procurando colaborar em: Desenvolvimento web ou mobile
+- 📫 Como entrar em contato comigo: oygor31@gmail.com
 
-Here are some ideas to get you started:
+   <div>
+<a href="https://github.com/ygor-silveira-oliveira">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=16&theme=dark"/>
+    </div>
+   <div style="display: inline_block"><br>
+<img align="center" alt="Ygor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Ygor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
+<img align="center" alt="Ygor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+<img align="center" alt="Ygor-VsCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
+  </div>
+     
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
