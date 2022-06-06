@@ -1,7 +1,7 @@
 ### Olá!Eu sou o Ygor Silveira de Oliveira👋
 
-- 🌱 Atualmente estou aprendendoaprendendo: HTML,CSS,JavaScript
-- 🧭 Pretendo trabalhar: com front-end
+- 🌱 Atualmente estou aprendendo: HTML, CSS e JavaScript
+- 🧭 Pretendo trabalhar: na área de front-end
 - 👯 Estou procurando colaborar em: Desenvolvimento web ou mobile
 - 📫 Como entrar em contato comigo: oygor31@gmail.com
 
