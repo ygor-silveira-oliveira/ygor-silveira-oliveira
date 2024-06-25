@@ -51,5 +51,5 @@ SOBRE MIM
 <a href="https://api.whatsapp.com/send?phone=555192664141&text=sua%20mensagem" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"  target="_blank"></a> 
 <a href = "mailto:oygor31@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=075155&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6308F7&height=120&section=footer"/>
 
