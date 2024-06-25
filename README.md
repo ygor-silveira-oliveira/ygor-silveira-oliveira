@@ -13,7 +13,7 @@ SOBRE MIM
 
    <div>
 <a href="https://github.com/ygor-silveira-oliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=purple&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=16&theme=dark"/>
 <img height="180em"  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ygor-silveira-oliveira&theme=dark&mode=weekly" />
     </div>  
