@@ -5,17 +5,17 @@ SOBRE MIM
 - Sou uma pessoa normalmente quieta e observadora, mas quando me sinto a vontade, sou até um pouco agitado e gosto de animar os outros;
 - Consigo focar facilmente nos meus objetivos. Quando eu realmente quero resolver alguma coisa, dificilmente algo me tira do foco;
 - Curto um pouco do mundo Nerd, então assunto sobre filmes, animes, séries e jogos não vão faltar;
-- Apesar de ser da área de informática, tenho muita dificuldade com hardwares. Sempre tive apenas um notebook para programar, então nunca tive a necessidade de ter   que possuir peças para montar um PC, daí que vem minha dificuldade;
-- Gosto de praticar praticamente todos os esportes e principalmente de manter minha saúde em um bom estado.
+- Nas horas vagas, costumo jogar ou me exercitar na academia/ praticar algum esporte;
+- Gosto de organização e aplico em praticamente tudo em minha vida.
 
 
 ##
 
    <div>
 <a href="https://github.com/ygor-silveira-oliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=purple&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=16&theme=dark"/>
-<img height="180em"  src="https://github-readme-streak-stats.herokuapp.com?user=ygor-silveira-oliveira&theme=dark&mode=weekly" />
+<img height="180em"  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ygor-silveira-oliveira&theme=dark&mode=weekly" />
     </div>  
 
    ## My Skills
@@ -47,7 +47,7 @@ SOBRE MIM
   #### Contatos:
 <a href="https://www.instagram.com/yg_silveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="www.linkedin.com/in/ygor-silveira-de-oliveira-a6954b225" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/ygor-silveira-de-oliveira-a6954b225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 <a href="https://api.whatsapp.com/send?phone=555192664141&text=sua%20mensagem" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"  target="_blank"></a> 
 <a href = "mailto:oygor31@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
