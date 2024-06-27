@@ -1,13 +1,4 @@
-### Olá!Eu sou o Ygor Silveira de Oliveira!
-
-SOBRE MIM
-
-- Sou uma pessoa normalmente quieta e observadora, mas quando me sinto a vontade, sou até um pouco agitado e gosto de animar os outros;
-- Consigo focar facilmente nos meus objetivos. Quando eu realmente quero resolver alguma coisa, dificilmente algo me tira do foco;
-- Curto um pouco do mundo Nerd, então assunto sobre filmes, animes, séries e jogos não vão faltar;
-- Nas horas vagas, costumo jogar ou me exercitar na academia/ praticar algum esporte;
-- Gosto de organização e aplico em praticamente tudo em minha vida.
-
+### <h1>Hello, welcome to my world! My name is Ygor Silveira de Oliveira and here are my details...</h1>
 
 ##
 
