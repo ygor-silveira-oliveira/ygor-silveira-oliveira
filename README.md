@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Ygor Oliveira👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=Desenvolvimento+web;JavaScript+%7C+TypeScript+%7C+React;Explorando+o+mundo+da+ciberseguran%C3%A7a" alt="Animação de texto: desenvolvimento web, JavaScript, TypeScript, React e cibersegurança">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=Desenvolvimento+web;JavaScript+%7C+TypeScript+%7C+React;Explorando+o+mundo+da+ciberseguran%C3%A7a" alt="Animação de texto: desenvolvimento web, JavaScript, TypeScript e React">
 </p>
 
 <p align="center">
@@ -39,4 +39,12 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="E-mail">
   </a>
 </p>
+
+## 👾 Pac-Man nas minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Pac-Man nas minhas contribuições" src="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph.svg">
+</picture>
 
