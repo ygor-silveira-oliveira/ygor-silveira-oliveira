@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Ygor Oliveira ✌️</h1>
+<h1 align="center">Olá, eu sou o Ygor Oliveira👾</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=50&lines=Desenvolvimento+web;JavaScript+%7C+TypeScript+%7C+React;Explorando+o+mundo+da+ciberseguran%C3%A7a" alt="Animação de texto: desenvolvimento web, JavaScript, TypeScript, React e cibersegurança">
@@ -14,13 +14,13 @@
 ## 📊 Minha atividade no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&locale=pt-br" alt="Estatísticas do GitHub de Ygor Oliveira">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=8B5CF6&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&include_all_commits=true&cache_seconds=21600&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&locale=pt-br" alt="Estatísticas do GitHub de Ygor Oliveira">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=8&cache_seconds=21600&theme=transparent&hide_border=true&title_color=8B5CF6&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios">
 </div>
 
 ## 💻 Tecnologias que utilizo
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,jquery,mysql,git,vscode,docker&perline=7" alt="JavaScript, TypeScript, React, Node.js, HTML, CSS, jQuery, MySQL, Git, VS Code e Docker">
 </p>
 
@@ -40,10 +40,3 @@
   </a>
 </p>
 
-## 👾 Pac-Man nas minhas contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph.svg">
-  <img width="100%" alt="Animação do Pac-Man no gráfico de contribuições de Ygor Oliveira" src="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph.svg">
-</picture>
