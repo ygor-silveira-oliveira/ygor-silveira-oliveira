@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Desenvolvedor web com interesse em cibersegurança.<br>
+  Desenvolvedor web em constante progresso e evolução.<br>
   Construo sites e aplicações e sigo ampliando meus conhecimentos a cada projeto.
 </p>
 
