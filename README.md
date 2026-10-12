@@ -1,45 +1,57 @@
-### <h1>Hello, welcome to my world! My name is Ygor Silveira de Oliveira and here are my details...</h1>
+<h1 align="center">Olá, eu sou o Ygor Oliveira 👋</h1>
+
+<p align="center">
+  Desenvolvedor web com interesse em cibersegurança.<br>
+  Construo sites e aplicações e sigo ampliando meus conhecimentos a cada projeto.
+</p>
+
+<p align="center">📍 Rio Grande do Sul, Brasil</p>
+<p align="center">🎧 Entre uma linha de código e outra, essa é a minha trilha sonora.</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/0WmPFbfGxOS2GIKchz5564">
+    <img src="https://img.shields.io/badge/Minha_playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Ouça minha playlist no Spotify">
+  </a>
+</p>
+
+## 📊 Minha atividade no GitHub
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&locale=pt-br" alt="Estatísticas do GitHub de Ygor Oliveira">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=8B5CF6&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios">
+</div>
+
+## 💻 Tecnologias que utilizo
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,jquery,mysql,git,vscode,php,python,ubuntu,docker&perline=7" alt="JavaScript, TypeScript, React, Node.js, HTML, CSS, jQuery, MySQL, Git, VS Code, PHP, Python, Ubuntu e Docker">
+</p>
+
+## 📬 Onde me encontrar
+
+<!-- Substitua SEU_USUARIO e SEU_EMAIL pelos seus dados. -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ygorsoliveira/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/yg_silveira/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="42" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:oygor31@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="E-mail">
+  </a>
+</p>
+
+## 👾 Pac-Man nas minhas contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph.svg">
+  <img width="100%" alt="Animação do Pac-Man no gráfico de contribuições de Ygor Oliveira" src="https://raw.githubusercontent.com/ygor-silveira-oliveira/ygor-silveira-oliveira/output/pacman-contribution-graph.svg">
+</picture>
 
 
-   <div>
-<a href="https://github.com/ygor-silveira-oliveira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=16&theme=dark"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=ygor-silveira-oliveira&theme=dark&mode=weekly" />
-    </div>  
 
-   ## My Skills
-
-#### Habilidades principais:
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-#### Habilidades secundárias:
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-
-
-  #### Contatos:
-<a href="https://www.instagram.com/yg_silveira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://www.linkedin.com/in/ygor-silveira-de-oliveira-a6954b225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://api.whatsapp.com/send?phone=555192664141&text=sua%20mensagem" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"  target="_blank"></a> 
-<a href = "mailto:oygor31@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=696969&height=120&section=footer"/>
 
