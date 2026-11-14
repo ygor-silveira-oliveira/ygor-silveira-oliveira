@@ -14,8 +14,8 @@
 ## 📊 Minha atividade no GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ygor-silveira-oliveira&show_icons=true&include_all_commits=true&cache_seconds=21600&theme=transparent&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&locale=pt-br" alt="Estatísticas do GitHub de Ygor Oliveira">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygor-silveira-oliveira&layout=compact&langs_count=8&cache_seconds=21600&theme=transparent&hide_border=true&title_color=8B5CF6&locale=pt-br" alt="Linguagens mais utilizadas nos repositórios">
+  <img height="170" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Resumo do GitHub de Ygor Oliveira">
+  <img height="170" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Linguagens dos repositórios">
 </div>
 
 ## 💻 Tecnologias que utilizo
