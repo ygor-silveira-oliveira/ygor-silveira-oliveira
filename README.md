@@ -14,10 +14,13 @@
 ## 📊 Minha atividade no GitHub
 
 <div align="center">
-  <img height="170" src="./profile-summary-card-output/github/0-profile-details.svg" alt="Resumo do GitHub de Ygor Oliveira">
-  <img height="170" src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Linguagens dos repositórios">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ygor-silveira-oliveira&theme=github_dark" alt="Estatísticas do GitHub de Ygor Oliveira">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ygor-silveira-oliveira&theme=github_dark" alt="Linguagens dos repositórios">
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ygor-silveira-oliveira&theme=dark&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&locale=pt_BR" alt="Sequência de contribuições de Ygor Oliveira">
+</p>
 ## 💻 Tecnologias que utilizo
 
 <p align="left">
